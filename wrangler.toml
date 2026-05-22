@@ -1,1 +1,9 @@
+name = 'cfnew'
+main = ""
 compatibility_date = "2026-01-20"
+keep_vars = true
+workers_dev = false
+
+[[kv_namespaces]]
+binding = "C"
+id = ""
